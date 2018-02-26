@@ -1,0 +1,2 @@
+gatherpclmsg:loam_velodyne:robot_localization:rtimulib_ros:velodyne/velodyne:velodyne/velodyne_driver:velodyne/velodyne_laserscan:velodyne/velodyne_msgs:velodyne/velodyne_pointcloud
+-DCMAKE_BUILD_TYPE=Release -DCATKIN_DEVEL_PREFIX=/home/nvidia/isuLidar/devel -DCMAKE_INSTALL_PREFIX=/home/nvidia/isuLidar/install -G Unix Makefiles
